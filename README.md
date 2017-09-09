@@ -5,8 +5,8 @@
   <tr>
     <td align=center>网门 網門<br/>
       欢迎来到固定网址页面，请收藏<br/>
-      https://git.io/ogate<br/>
-      https://github.com/ogate/ogate<br/>
+      https://git.io/olift<br/>
+      https://github.com/olift/olift<br/>
     </td>
   </tr>
   <tr>
